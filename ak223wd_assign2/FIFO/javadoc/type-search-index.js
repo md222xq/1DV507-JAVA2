@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ak223wd_assign2.FIFO","l":"LinkedQueue"},{"p":"ak223wd_assign2.FIFO","l":"Queue"},{"p":"ak223wd_assign2.FIFO","l":"QueueMain"}]
